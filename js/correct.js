@@ -7,7 +7,7 @@ const rExp = new RegExp('uwu|'+
 	'owo|'+
 	
 
-while(textNode=walk.nextNode()) {
+;while(textNode=walk.nextNode()) {
     textNode.nodeValue = textNode.nodeValue.replace(rExp, 'Je suis un attardé');
 }
 
