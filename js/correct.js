@@ -11,4 +11,4 @@ const rExp = new RegExp('uwu|'+
     textNode.nodeValue = textNode.nodeValue.replace(rExp, 'Je suis un attardé');
 }
 
-document.title = document.title.replace(rExp, 'Je suis une gros attardé');
+document.title = document.title.replace(rExp, 'Je suis un gros attardé');
