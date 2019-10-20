@@ -4,7 +4,7 @@ const rExp = new RegExp('uwu|'+
 	'UWU|'+
 	'uwu|'+
 	'OWO|'+
-	'owo|'+
+	'owo|')
 	
 
 ;while(textNode=walk.nextNode()) {
